@@ -140,4 +140,10 @@ body {
     padding: 30px 40px;
 }
 
+.wrapper a{
+  text-decoration: none;
+  color: black;
+}
+
+
 /* Rest of your styles remain unchanged */
